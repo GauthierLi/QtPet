@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/smn">
+        <file>imgs/smn/output_frame_0.png</file>
+        <file>imgs/smn/output_frame_1.png</file>
+        <file>imgs/smn/output_frame_2.png</file>
+        <file>imgs/smn/output_frame_3.png</file>
+    </qresource>
+    <qresource prefix="/mmc">
+        <file>imgs/mmc/output_frame_0.png</file>
+        <file>imgs/mmc/output_frame_1.png</file>
+        <file>imgs/mmc/output_frame_2.png</file>
+        <file>imgs/mmc/output_frame_3.png</file>
+        <file>imgs/mmc/output_frame_4.png</file>
+        <file>imgs/mmc/output_frame_5.png</file>
+        <file>imgs/mmc/output_frame_6.png</file>
+        <file>imgs/mmc/output_frame_7.png</file>
+        <file>imgs/mmc/output_frame_8.png</file>
+        <file>imgs/mmc/output_frame_9.png</file>
+        <file>imgs/mmc/output_frame_10.png</file>
+        <file>imgs/mmc/output_frame_11.png</file>
+        <file>imgs/mmc/output_frame_12.png</file>
+        <file>imgs/mmc/output_frame_13.png</file>
+        <file>imgs/mmc/output_frame_14.png</file>
+        <file>imgs/mmc/output_frame_15.png</file>
+        <file>imgs/mmc/output_frame_16.png</file>
+        <file>imgs/mmc/output_frame_17.png</file>
+        <file>imgs/mmc/output_frame_18.png</file>
+        <file>imgs/mmc/output_frame_19.png</file>
+        <file>imgs/mmc/output_frame_20.png</file>
+        <file>imgs/mmc/output_frame_21.png</file>
+        <file>imgs/mmc/output_frame_22.png</file>
+        <file>imgs/mmc/output_frame_23.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>imgs/smn/output_frame_3.png</file>
+    </qresource>
+</RCC>
